@@ -1,0 +1,16 @@
+[
+  {
+    "route": "A",
+    "time": 15,
+    "crime_risk": 0.7,
+    "lighting_risk": 0.6,
+    "isolation_risk": 0.5
+  },
+  {
+    "route": "B",
+    "time": 20,
+    "crime_risk": 0.2,
+    "lighting_risk": 0.3,
+    "isolation_risk": 0.2
+  }
+]
