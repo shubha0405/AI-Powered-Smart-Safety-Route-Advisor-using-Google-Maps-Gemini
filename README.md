@@ -30,7 +30,7 @@ Modern navigation apps optimize for speed, not safety. Users may unknowingly tra
 ✅ **Safety Charts** - Plotly visualizations for score comparison  
 ✅ **Risk Radar Charts** - Multi-dimensional risk profile visualization  
 ✅ **Interactive UI** - Clean Streamlit interface with advanced visuals  
-✅ **API Backend** - FastAPI with map endpoints  
+✅ **API Backend** - FastAPI with map endpoints  Maps & Location Intelligence: Google Maps API (Directions, Distance Matrix) with Folium for interactive visualization
 
 ---
 
