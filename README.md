@@ -233,8 +233,25 @@ This is a 2-hour hackathon project demonstrating AI-driven safety-first navigati
 ![Route Map](https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Maps_navigation_screenshot.png)
 >>>>>>> ![Route Comparison](https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Maps_multiple_routes.png)
 >>>>>>> ![Map View](https://upload.wikimedia.org/wikipedia/commons/5/55/Google_Maps_App.png)
+💡 AI-powered navigation that prioritizes safety over speed using real-world risk analysis.
+Uses Google Maps Directions API to fetch real-world routes and enhance safety analysis.
+## 🏁 Impact
 
+Helps users avoid unsafe routes and make safer travel decisions using AI.
+## 🚀 Why This is Different
 
+Unlike traditional navigation apps, this system integrates safety intelligence into routing decisions, ensuring users avoid risky areas instead of just minimizing travel time.
+## 🌍 Real-World Use Cases
 
+- Late-night travel safety  
+- Navigation in unfamiliar cities  
+- Women’s safety-focused routing  
+- Emergency-aware navigation
+
+AI/ML: Risk scoring model, decision-based recommendation system
+
+This pipeline ensures a structured flow from data ingestion → risk analysis → AI decision → user output.
+
+This project leverages Google Maps Platform APIs combined with AI-driven risk analysis to deliver safer navigation experiences. By integrating the Directions and Distance Matrix APIs, the system retrieves real-world route data and enhances it with contextual safety evaluation based on factors such as crime probability, lighting conditions, and route isolation. Unlike traditional navigation systems that optimize only for speed or distance, this solution introduces a safety-first approach by intelligently comparing routes and recommending the most secure option. This demonstrates how Google Maps infrastructure can be extended with AI to transform raw geographic data into actionable safety insights, enabling smarter, real-world decision-making for users.
 
 
