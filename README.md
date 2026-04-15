@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🗺️ Smart Safe Route Advisor
 
 **Because reaching safely matters more than reaching fast.**
@@ -215,3 +216,7 @@ Built for Hackathon - 2026
 This is a 2-hour hackathon project demonstrating AI-driven safety-first navigation.
 
 **All code is production-ready. No placeholders. Everything runs.**
+=======
+# AI-Powered-Smart-Safety-Route-Advisor-using-Google-Maps-Gemini
+🚀 AI-Powered Smart Safety Route Advisor using Google Maps and intelligent risk analysis to recommend safer routes based on time, context, and real-world conditions.
+>>>>>>> 1cd3b504e8ef04841b217f3c680539e29ec44c12
