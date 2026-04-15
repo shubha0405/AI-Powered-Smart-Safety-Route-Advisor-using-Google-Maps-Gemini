@@ -99,6 +99,10 @@ smart-safe-route-advisor/
 ### 1. **Load Routes** (`app/routes.py`)
 - Reads from `data/routes.json`
 - Contains Route A & B with time and risk metrics
+- Fetch Route Data (Google Maps API)  
+Uses Google Maps Directions API to retrieve possible routes between source and destination  
+Extracts route distance, duration, and path details  
+Enhances route realism beyond static data
 
 ### 2. **Adjust Risks** (`app/utils.py`)
 - Applies time-of-day adjustments
@@ -220,3 +224,17 @@ This is a 2-hour hackathon project demonstrating AI-driven safety-first navigati
 # AI-Powered-Smart-Safety-Route-Advisor-using-Google-Maps-Gemini
 🚀 AI-Powered Smart Safety Route Advisor using Google Maps and intelligent risk analysis to recommend safer routes based on time, context, and real-world conditions.
 >>>>>>> 1cd3b504e8ef04841b217f3c680539e29ec44c12
+<img width="1359" height="800" alt="image" src="https://github.com/user-attachments/assets/48be2c84-f342-4755-94c0-8d672a5eadd3" />
+<img width="1378" height="850" alt="image" src="https://github.com/user-attachments/assets/7d75447e-af92-4479-b73e-a83e2a751d4a" />
+<img width="350" height="226" alt="image" src="https://github.com/user-attachments/assets/83e219df-ffba-4289-bc8b-0f034abc1e44" />
+<img width="245" height="162" alt="image" src="https://github.com/user-attachments/assets/d68f248c-77ba-48f3-b8d4-729899724fc9" />
+<img width="301" height="276" alt="image" src="https://github.com/user-attachments/assets/60c7c0f5-f140-4f37-9053-bdce40a0a77a" />
+<img width="563" height="267" alt="image" src="https://github.com/user-attachments/assets/d82c2c3c-2d2b-4a03-8b34-ce20b1ed5dbb" />
+![Route Map](https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Maps_navigation_screenshot.png)
+>>>>>>> ![Route Comparison](https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Maps_multiple_routes.png)
+>>>>>>> ![Map View](https://upload.wikimedia.org/wikipedia/commons/5/55/Google_Maps_App.png)
+
+
+
+
+
